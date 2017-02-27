@@ -1,0 +1,20 @@
+{
+  "author": {
+    "name": "https://github.com/angular-ui/bootstrap/graphs/contributors"
+  },
+  "name": "angular-bootstrap-modal",
+  "keywords": [
+    "angular",
+    "angular-ui",
+    "ui-bootstrap-modal",
+    "bootstrap"
+    ],
+    "license": "MIT",
+    "ignore": [],
+    "description": "Native AngularJS (Angular) directives for Bootstrap.",
+    "version": "2.5.0",
+    "main": ["./ui-bootstrap-custom-tpls-2.5.0.min.js"],
+    "dependencies": {
+      "angular": ">=1.4.0"
+    }
+}
